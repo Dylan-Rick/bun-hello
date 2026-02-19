@@ -1,4 +1,4 @@
-1. Node Modules are useful for extra space so it is less crowded. The node modules contains or houses the package. 
+1. Node_Modules are useful for extra storage so it is less crowded for running the package.json. The node modules contains or houses the package.json.
 
 2. Backticks are useful to make templates with string, multi-line, and tagged literals. 
 
